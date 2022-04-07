@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "740468214232",
+    "project_id": "jordans-5e814",
+    "storage_bucket": "jordans-5e814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740468214232:android:2c42dd8b8f17c0febf0aad",
+        "android_client_info": {
+          "package_name": "com.jordans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740468214232-s48qtnv91v4lo1ivoq0jk3s7j50f8od4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmM6zqa_8spOoeIUYlItlaYTbC5V1jlEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740468214232-s48qtnv91v4lo1ivoq0jk3s7j50f8od4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "740468214232-km5eaileptg9ja746dao78829lp5he7v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Jordans"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
