@@ -104,9 +104,21 @@ const MayScreen = () => {
                 liked={true}
               />
               <ReleaseDateCard
+                userName="May 21"
+                name="RETRO 4 - “Military Black”"
+                postImg={require('../../assets/images/May2022/WhiteBlackGrey4.jpeg')}
+                liked={true}
+              />
+                <ReleaseDateCard
                 userName="May 25"
                 name="RETRO 1 HI OG - White/Red"
                 postImg={require('../../assets/images/May2022/May25Retro1WhiteRed.jpg')}
+                liked={true}
+              />
+                <ReleaseDateCard
+                userName="May 28"
+                name="RETRO 5 - Reflective Silver/Green Bean"
+                postImg={require('../../assets/images/May2022/Retro5ReflectiveSilverGreen.jpeg')}
                 liked={true}
               />
             </Container>

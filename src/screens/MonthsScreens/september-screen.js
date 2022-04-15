@@ -80,6 +80,12 @@ const SeptemberScreen = () => {
                 liked={true}
               />
               <ReleaseDateCard
+                userName="September 17"
+                name="RETRO 1 HI OG - “Heirloom” Vachetta Tan"
+                postImg={require('../../assets/images/Sept2022/Heirloom1.jpeg')}
+                liked={true}
+              />
+              <ReleaseDateCard
                 userName="Date Unknown"
                 name="RETRO 14 - Ginger/White"
                 postImg={require('../../assets/images/Sept2022/GingerWhite14.jpeg')}

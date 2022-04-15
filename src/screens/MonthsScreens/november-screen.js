@@ -74,6 +74,12 @@ const NovemberScreen = () => {
           <ScrollView>
             <Container>
               <ReleaseDateCard
+                userName="November 12"
+                name="RETRO 1 HI OG - White/Gorge Green"
+                postImg={require('../../assets/images/Nov2022/WhiteGorgeGreen1.jpeg')}
+                liked={true}
+              />
+               <ReleaseDateCard
                 userName="November 19"
                 name="RETRO 6 - Black/Metallic Silver"
                 postImg={require('../../assets/images/Nov2022/BlackMetallic6.jpeg')}

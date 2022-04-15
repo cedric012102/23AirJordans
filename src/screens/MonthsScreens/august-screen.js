@@ -79,6 +79,12 @@ const AugustScreen = () => {
                 postImg={require('../../assets/images/Aug2022/YellowToeBlack1.webp')}
                 liked={true}
               />
+               <ReleaseDateCard
+                userName="August 25"
+                name="Womens RETRO 4 - Canyon Purple"
+                postImg={require('../../assets/images/Aug2022/retro4canyonpurple.jpeg')}
+                liked={true}
+              />
               <ReleaseDateCard
                 userName="Date Unknown"
                 name="RETRO 7 - “Afrobeats”"
@@ -95,12 +101,6 @@ const AugustScreen = () => {
                 userName="Date Unknown"
                 name="RETRO 4 Canvas - Olive"
                 postImg={require('../../assets/images/Aug2022/Canvas4Olive.jpg')}
-                liked={true}
-              />
-               <ReleaseDateCard
-                userName="Date Unknown"
-                name="Womens RETRO 4 - Canyon Purple"
-                postImg={require('../../assets/images/Aug2022/retro4canyonpurple.jpeg')}
                 liked={true}
               />
             </Container>

@@ -122,7 +122,7 @@ const AprilScreen = () => {
                 liked={true}
               />
               <ReleaseDateCard
-                userName="April 30"
+                userName="April 29"
                 name="RETRO 13 - Navy/Black"
                 postImg={require('../../assets/images/Apr2022/navy13.webp')}
                 liked={true}

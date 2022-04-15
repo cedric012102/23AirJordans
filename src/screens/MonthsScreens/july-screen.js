@@ -79,6 +79,24 @@ const JulyScreen = () => {
                 postImg={require('../../assets/images/July2022/BlackCitrus7.jpeg')}
                 liked={true}
               />
+               <ReleaseDateCard
+                userName="July 8"
+                name="Womens Nina Chanel Abney x AJ 2"
+                postImg={require('../../assets/images/July2022/NinaChanel2.jpeg')}
+                liked={true}
+              />
+               <ReleaseDateCard
+                userName="July 16"
+                name="RETRO 1 HI OG - Grey/White"
+                postImg={require('../../assets/images/July2022/retro1GreyWhite.jpeg')}
+                liked={true}
+              />
+              <ReleaseDateCard
+                userName="July 20"
+                name="Womens RETRO 1 HI OG - Iron/Red/Sail"
+                postImg={require('../../assets/images/July2022/IronRedSail.jpeg')}
+                liked={true}
+              />
               <ReleaseDateCard
                 userName="July 23"
                 name="RETRO 5 - White/Concord"
@@ -101,12 +119,6 @@ const JulyScreen = () => {
                 userName="Date Unknown"
                 name="Womens RETRO 1 HI OG - Starfish"
                 postImg={require('../../assets/images/July2022/Starfish1.jpeg')}
-                liked={true}
-              />
-               <ReleaseDateCard
-                userName="Date Unknown"
-                name="RETRO 1 HI OG - Grey/White"
-                postImg={require('../../assets/images/July2022/retro1GreyWhite.jpeg')}
                 liked={true}
               />
             </Container>

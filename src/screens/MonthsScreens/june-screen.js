@@ -97,10 +97,10 @@ const JuneScreen = () => {
                 postImg={require('../../assets/images/Jun2022/GreyInfrared4.webp')}
                 liked={true}
               />
-              <ReleaseDateCard
-                userName="June 25"
-                name="RETRO 4 - White/Black/Grey"
-                postImg={require('../../assets/images/Jun2022/WhiteBlackGrey4.jpeg')}
+               <ReleaseDateCard
+                userName="June 24"
+                name="Limited Maison Chateau Rouge x AJ 2"
+                postImg={require('../../assets/images/Jun2022/LimitedMaisonChateau2.jpeg')}
                 liked={true}
               />
               <ReleaseDateCard
@@ -110,13 +110,7 @@ const JuneScreen = () => {
                 liked={true}
               />
               <ReleaseDateCard
-                userName="Date Unknown"
-                name="RETRO 5 - Reflective Silver/Green Bean"
-                postImg={require('../../assets/images/Jun2022/Retro5ReflectiveSilverGreen.jpeg')}
-                liked={true}
-              />
-              <ReleaseDateCard
-                userName="Date Unknown"
+                userName="June 25"
                 name="RETRO 3 - Black/Fossil Stone/Sail"
                 postImg={require('../../assets/images/Jun2022/BlackFossil3.jpeg')}
                 liked={true}
