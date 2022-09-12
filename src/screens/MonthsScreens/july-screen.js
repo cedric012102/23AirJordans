@@ -109,18 +109,6 @@ const JulyScreen = () => {
                 postImg={require('../../assets/images/July2022/GreyWhite12.jpeg')}
                 liked={true}
               />
-                <ReleaseDateCard
-                userName="Date Unknown"
-                name="Womens RETRO 12 - Black/Blue/White"
-                postImg={require('../../assets/images/July2022/WomensRetro12BlackBlueWhite.jpg')}
-                liked={true}
-              />
-               <ReleaseDateCard
-                userName="Date Unknown"
-                name="Womens RETRO 1 HI OG - Starfish"
-                postImg={require('../../assets/images/July2022/Starfish1.jpeg')}
-                liked={true}
-              />
             </Container>
           </ScrollView>
         )}

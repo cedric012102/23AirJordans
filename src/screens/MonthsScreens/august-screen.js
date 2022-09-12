@@ -85,24 +85,6 @@ const AugustScreen = () => {
                 postImg={require('../../assets/images/Aug2022/retro4canyonpurple.jpeg')}
                 liked={true}
               />
-              <ReleaseDateCard
-                userName="Date Unknown"
-                name="RETRO 7 - “Afrobeats”"
-                postImg={require('../../assets/images/Aug2022/Afrobeats7.jpeg')}
-                liked={true}
-              />
-                <ReleaseDateCard
-                userName="Date Unknown"
-                name="RETRO 3 - White/Fire Red"
-                postImg={require('../../assets/images/Aug2022/WhiteFireRed3.webp')}
-                liked={true}
-              />
-               <ReleaseDateCard
-                userName="Date Unknown"
-                name="RETRO 4 Canvas - Olive"
-                postImg={require('../../assets/images/Aug2022/Canvas4Olive.jpg')}
-                liked={true}
-              />
             </Container>
           </ScrollView>
         )}

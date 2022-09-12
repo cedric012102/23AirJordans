@@ -74,8 +74,20 @@ const DecemberScreen = () => {
           <ScrollView>
             <Container>
               <ReleaseDateCard
+                userName="December 3"
+                name="RETRO 12 - Black/Gold/Taxi"
+                postImg={require('../../assets/images/Dec2022/BlackMetallic12.jpg')}
+                liked={true}
+              />
+              <ReleaseDateCard
+                userName="December 3"
+                name="RETRO 2 LOW - White/Cherrywood"
+                postImg={require('../../assets/users/jordanlogo.webp')}
+                liked={true}
+              />
+              <ReleaseDateCard
                 userName="December 10"
-                name="AIR JORDAN 11 - White/Red"
+                name="AIR JORDAN XI - White/Red"
                 postImg={require('../../assets/images/Dec2022/CherryRed11.jpeg')}
                 liked={true}
               />
@@ -86,9 +98,15 @@ const DecemberScreen = () => {
                 liked={true}
               />
               <ReleaseDateCard
-                userName="December 29"
-                name="RETRO 13 - Black/University Blue"
+                userName="December 23"
+                name="RETRO 13 - Black/UNC"
                 postImg={require('../../assets/images/Dec2022/BlackUnc13.jpeg')}
+                liked={true}
+              />
+              <ReleaseDateCard
+                userName="December 30"
+                name="RETRO 2 - “Chicago”"
+                postImg={require('../../assets/images/Dec2022/OG2Chicago.jpg')}
                 liked={true}
               />
             </Container>

@@ -74,9 +74,7 @@ export function ReleaseDateCard({
           </UserInfoText>
         </UserInfo>
         <PostText>{name}</PostText>
-        <TouchableOpacity onPress={link}>
           {postImg != 'none' ? <PostImg source={postImg} /> : <Divider />}
-        </TouchableOpacity>
 
         <InteractionWrapper>
           <Interaction active={liked} onPress={onLikePress}>
