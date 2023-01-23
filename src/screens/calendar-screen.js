@@ -110,7 +110,7 @@ const CalendarScreen = ({navigation}) => {
             paused={paused}
           />
           <FormButton
-          buttonTitle="See 2022 Air Jordan Releases"
+          buttonTitle="See 2023 Air Jordan Releases"
           onPress={monthsOnShowActionSheet}
         />
 

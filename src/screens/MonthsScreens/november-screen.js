@@ -100,44 +100,9 @@ const NovemberScreen = () => {
             <Container>
               {/* <FormButton buttonTitle="Check em Out" onPress={NovStockX1} /> */}
               <ReleaseDateCard
-                userName="November 5"
-                name="RETRO 9 - White/Fire Red/Cool Grey"
+                // userName="November 1"
+                name="Come Back Later"
                 postImg={require('../../assets/users/jordanlogo.webp')}
-                liked={true}
-              />
-              {/* <FormButton buttonTitle="Check em Out" onPress={NovStockX2} /> */}
-               <ReleaseDateCard
-                userName="November 11"
-                name="Womens RETRO 11 - “Blue Velvet”"
-                postImg={require('../../assets/images/Nov2022/WmnsMidnightNavy11.jpeg')}
-                liked={true}
-              />
-              <FormButton buttonTitle="Check em Out" onPress={NovStockX3} />
-              <ReleaseDateCard
-                userName="November 12"
-                name="RETRO 7 - White/Cardinal Red"
-                postImg={require('../../assets/images/Nov2022/Cardinal7.jpeg')}
-                liked={true}
-              />
-              {/* <FormButton buttonTitle="Check em Out" onPress={NovStockX4} /> */}
-              <ReleaseDateCard
-                userName="November 17"
-                name="Limited AJ 4 MA MANIERE - Chocolate"
-                postImg={require('../../assets/users/jordanlogo.webp')}
-                liked={true}
-              />
-              {/* <FormButton buttonTitle="Check em Out" onPress={NovStockX5} /> */}
-              <ReleaseDateCard
-                userName="November 19"
-                name="RETRO 1 - “Vintage Chicago”"
-                postImg={require('../../assets/images/Nov2022/OGChicago1.jpg')}
-                liked={true}
-              />
-              {/* <FormButton buttonTitle="Check em Out" onPress={NovStockX6} /> */}
-              <ReleaseDateCard
-                userName="November 26"
-                name="RETRO 1 - White/Gorge Green"
-                postImg={require('../../assets/images/Nov2022/WhiteGorgeGreen1.jpeg')}
                 liked={true}
               />
             </Container>

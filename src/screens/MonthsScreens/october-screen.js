@@ -109,62 +109,13 @@ const OctoberScreen = () => {
         ) : (
           <ScrollView>
             <Container>
-              <FormButton buttonTitle="Check em Out" onPress={OctStockX1} />
+              {/* <FormButton buttonTitle="Check em Out" onPress={OctStockX1} /> */}
               <ReleaseDateCard
-                userName="October 1"
-                name="Womens RETRO 12 - Hyper Royal/Black"
+                // userName="October 1"
+                name="Come Back Later"
                 postImg={require('../../assets/users/jordanlogo.webp')}
                 liked={true}
               />
-              {/* <FormButton buttonTitle="Check em Out" onPress={OctStockX2} /> */}
-              <ReleaseDateCard
-                userName="October 1"
-                name="AIR JORDAN 4 SE - Black Canvas"
-                postImg={require('../../assets/users/jordanlogo.webp')}
-                liked={true}
-              />
-              <FormButton buttonTitle="Check em Out" onPress={OctStockX3} />
-              <ReleaseDateCard
-                userName="October 6"
-                name="RETRO 11 LOW IE - Orewood"
-                postImg={require('../../assets/users/jordanlogo.webp')}
-                liked={true}
-              />
-              <FormButton buttonTitle="Check em Out" onPress={OctStockX4} />
-              <ReleaseDateCard
-                userName="October 6"
-                name="Womens RETRO 3 - Black/Gold"
-                postImg={require('../../assets/users/jordanlogo.webp')}
-                liked={true}
-              />
-              {/* <FormButton buttonTitle="Check em Out" onPress={OctStockX5} /> */}
-               <ReleaseDateCard
-                userName="October 8"
-                name="AJ 3 WINTERIZED - Brown/Bordeaux/Grey"
-                postImg={require('../../assets/users/jordanlogo.webp')}
-                liked={true}
-                />
-                <FormButton buttonTitle="Check em Out" onPress={OctStockX6} />
-                <ReleaseDateCard
-                userName="October 15"
-                name="RETRO 6 - Black/Metallic Silver"
-                postImg={require('../../assets/images/Oct2022/BlackMetallic6.jpeg')}
-                liked={true}
-                />
-                <FormButton buttonTitle="Check em Out" onPress={OctStockX7} />
-                <ReleaseDateCard
-                userName="October 20"
-                name="RETRO 7 SE - “Afrobeats”"
-                postImg={require('../../assets/users/jordanlogo.webp')}
-                liked={true}
-                />
-                <FormButton buttonTitle="Check em Out" onPress={OctStockX8} />
-                <ReleaseDateCard
-                userName="October 29"
-                name="RETRO 4 - White/Navy/Grey"
-                postImg={require('../../assets/users/jordanlogo.webp')}
-                liked={true}
-                />
             </Container>
           </ScrollView>
         )}

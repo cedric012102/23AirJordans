@@ -67,57 +67,39 @@ const JanuaryScreen = () => {
           <ScrollView>
             <Container>
               <ReleaseDateCard
-                userName="January 2"
-                name="Air Jordan 1 Low “Light Iron Ore”"
-                postImg={require('../../assets/images/Jan2022/jan2LightIronOre.jpeg')}
-                liked={true}
-              />
-              <ReleaseDateCard
-                userName="January 7"
-                name="Air Jordan 13 “Court Purple”"
-                postImg={require('../../assets/images/Jan2022/jan7courtpurple13.jpeg')}
-                liked={true}
-              />
-              <ReleaseDateCard
-                userName="January 10"
-                name="Air Jordan 1 Mid “College Grey”"
-                postImg={require('../../assets/images/Jan2022/jan10mid1collegegray.jpeg')}
-                liked={true}
-              />
-              <ReleaseDateCard
-                userName="January 12"
-                name="Air Jordan 1 Mid “College Grey”"
-                postImg={require('../../assets/images/Jan2022/jan12lowbredtoe1.jpeg')}
+                userName="January 14"
+                name="RETRO 1 - True Blue/Grey"
+                postImg={require('../../assets/images/Jan/TrueBlue1.jpeg')}
                 liked={true}
               />
               <ReleaseDateCard
                 userName="January 14"
-                name="Air Jordan 4 “Red Thunder”"
-                postImg={require('../../assets/images/Jan2022/jan144redthunder.jpeg')}
+                name="Womens RETRO 5 - Red suede"
+                postImg={require('../../assets/images/Jan/WmnsRed5s.jpeg')}
                 liked={true}
               />
               <ReleaseDateCard
-                userName="January 17"
-                name="Air Jordan 1 Mid"
-                postImg={require('../../assets/images/Jan2022/jan17midblack1.jpeg')}
+                userName="January 22"
+                name="XX3 CNY - Year of the Rabbit"
+                postImg={require('../../assets/images/Jan/23Rabbit.jpeg')}
                 liked={true}
               />
               <ReleaseDateCard
-                userName="January 19"
-                name="Air Jordan 1 Low OG Golf “Triple White”"
-                postImg={require('../../assets/images/Jan2022/jan19golftriplewhite1.jpeg')}
+                userName="January 24"
+                name="Girls RETRO 7 - Black/Barely Grape"
+                postImg={require('../../assets/images/Jan/Wmns7.jpeg')}
                 liked={true}
               />
               <ReleaseDateCard
-                userName="January 19"
-                name="Air Jordan 1 Low OG Golf"
-                postImg={require('../../assets/images/Jan2022/jan19lowgolf1.jpeg')}
+                userName="January 26"
+                name="Womens RETRO 2 - Craft"
+                postImg={require('../../assets/images/Jan/Wmns2Craft.jpeg')}
                 liked={true}
               />
               <ReleaseDateCard
-                userName="January 19"
-                name="Air Jordan 1 Low OG Golf “Shadow”"
-                postImg={require('../../assets/images/Jan2022/jan19lowgolfshadow1.jpeg')}
+                userName="January 27"
+                name="AJKO 1 LOW x UNION"
+                postImg={require('../../assets/images/Jan/ajko1LowUnion.jpeg')}
                 liked={true}
               />
             </Container>

@@ -74,51 +74,33 @@ const MarchScreen = () => {
           <ScrollView>
             <Container>
               <ReleaseDateCard
-                userName="March 5"
-                name="RETRO 6 - White/UNC"
-                postImg={require('../../assets/images/March2022/nc6.jpeg')}
+                userName="March 2"
+                name="Womens RETRO 12 MA MANIERE - White"
+                postImg={require('../../assets/images/Mar/WmnsManiere.jpeg')}
                 liked={true}
               />
                <ReleaseDateCard
-                userName="March 8"
-                name="Womens RETRO 6 - White/Mint"
-                postImg={require('../../assets/images/March2022/mint6.webp')}
+                userName="March 3"
+                name="Womens AJ 14 LOW - Metallic Silver"
+                postImg={require('../../assets/images/Mar/wmns14low.jpeg')}
+                liked={true}
+              />
+               <ReleaseDateCard
+                userName="March 4"
+                name="RETRO 5 - “UNC”"
+                postImg={require('../../assets/images/Mar/5unc.jpeg')}
                 liked={true}
               />
                <ReleaseDateCard
                 userName="March 11"
-                name="RETRO 12 - “Playoffs”"
-                postImg={require('../../assets/images/March2022/retro12playoffs.webp')}
-                liked={true}
-              />
-               <ReleaseDateCard
-                userName="March 19"
-                name="RETRO 1 - “Rebellionaire”"
-                postImg={require('../../assets/images/March2022/rebellionaire.png')}
-                liked={true}
-              />
-               <ReleaseDateCard
-                userName="March 19"
-                name="RETRO 13 - White/Yellow"
-                postImg={require('../../assets/images/March2022/13WhiteYellow.jpeg')}
-                liked={true}
-              />
-               <ReleaseDateCard
-                userName="March 24"
-                name="Jordan 8 Retro SE Rui Hachimura"
-                postImg={require('../../assets/images/March2022/RuiHachimura8.webp')}
+                name="RETRO 3 ‘88 - White/Cement"
+                postImg={require('../../assets/images/Mar/3cem88.jpeg')}
                 liked={true}
               />
                <ReleaseDateCard
                 userName="March 25"
-                name="Mens RETRO 3 Canvas - Muslin/Sail"
-                postImg={require('../../assets/images/March2022/canvas3.webp')}
-                liked={true}
-              />
-               <ReleaseDateCard
-                userName="March 31"
-                name="AIR JORDAN 36 - Black/Infrared"
-                postImg={require('../../assets/images/March2022/36Bred.jpg')}
+                name="Womens AJ 1 LOW x Travis Scott - Olive"
+                postImg={require('../../assets/images/Mar/Wmns1Travis.jpeg')}
                 liked={true}
               />
             </Container>
